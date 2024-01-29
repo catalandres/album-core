@@ -1,0 +1,3 @@
+[submodule "test/mocks/sfdx-project-mock"]
+	path = test/mocks/sfdx-project-mock
+	url = https://github.com/catalandres/sfdx-project-mock
